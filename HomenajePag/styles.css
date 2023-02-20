@@ -1,0 +1,138 @@
+span {
+  padding: 2px;
+}
+
+#title {
+  background-image: url('https://media.istockphoto.com/id/1097380950/es/foto/m%C3%A1rmol-de-ne%C3%B3n-rosa-azul-marino-ultra-violeta-morado-abstracto-textura-en-fondo-negro.jpg?s=612x612&w=0&k=20&c=uUiXk8WskEcTNSx3P9sfJRN3bJpF_wLr6C0Raw1c15I=');
+  background-size: 100% 100%;
+  padding-top: 10px;
+  border-radius: 50px;
+  border: 10px solid rgb(255, 255, 0);
+  height: 100px;
+  color:rgb(225, 225, 225);
+  display: block;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 3rem;
+}
+
+#headline{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 2.5rem;
+  border-radius:50px;
+  text-align: center;
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 60%;
+  background-color: rgba(255, 255, 255, 0.694);
+  border: 5px solid black;
+}
+
+li{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1.1rem;
+  text-align: center;
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 70%;
+  background-color: rgba(255, 255, 255, 0.694);
+  border: 5px solid black;
+}
+
+#image {
+  max-width: 100%;
+  
+}
+
+#psub{
+  font-size: 2.5rem;
+  border-radius:50px;
+  text-align: center;
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 60%;
+  background-color: rgba(255, 255, 255, 0.694);
+  border: 5px solid black;
+ 
+}
+
+p{
+  font-family:'Trebuchet MS';
+  font-weight: bold;
+  display: block;
+  width: auto;
+  background-color: rgba(255, 255, 255, 0.575);
+  border: 5px solid black;
+  border-radius:10px;
+  padding: 20px;
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+#main{
+  width: 90%;
+  border: 1px solid red;
+  margin: 0 auto 0 auto;
+  background-image: url('https://w0.peakpx.com/wallpaper/798/556/HD-wallpaper-psychedelic-12-art-pattern-psychedelic.jpg');
+  background-size: cover;
+}
+
+img{
+  width: 60%;
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 10px solid rgb(253, 243, 171);
+}
+
+#img-caption{
+  display: block;
+  width: 70%;
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0 auto 0 auto;
+}
+#img-div{
+  background: rgba(255, 255, 255, 0.772);
+  border-radius: 20px;
+  
+    padding:10px;
+    margin: 0 auto 0 auto;
+    display: block;
+    border: 5px solid black;
+    width: 40%;
+    height: auto;
+}
+
+#tribute-info{
+  width: 90%;
+  margin:0 auto;
+}
+
+ul{
+  background-color: rgba(225, 225, 225, 0.657);
+  margin: 0 auto;
+  width: 90%;
+  display: block;
+  border: 2px solid white;
+}
+
+h3,a{
+  font-size: 1.3rem;
+  border-radius:50px;
+  text-align: center;
+  display: block;
+  margin: 0 auto 10px auto;
+  width: 60%;
+  background-color: rgba(255, 255, 255, 0.694);
+  border: 5px solid black;
+}
+
+cite{
+  font-size: 1.3rem;
+  background-color: rgba(255, 255, 255, 0.694);
+  border: 1px solid black;
+}
